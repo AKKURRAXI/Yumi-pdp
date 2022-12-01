@@ -1,2 +1,2 @@
-# Yumi-pdp
+# Yumi-pdp 🐶
 A anime pdp database 
